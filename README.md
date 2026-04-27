@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudha Karki</h1>
 <h3 align="center">A passionate Frontend developer with a strong interest in crafting clean, modern and user-friendly interfaces.</h3>
 
-- 🔭 I’m currently working on **Friendly Finds project**
+- 🔭 I’m currently working on ** Semester Project**
 
 - 🌱 I’m currently learning **Frontend development,react,Computer Science fundamentals**
 
